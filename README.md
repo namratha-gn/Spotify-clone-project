@@ -1,6 +1,6 @@
 # Project Name
 
-Spotify-clone
+music-stream-ui
 
 ## 🚀 Demo
 https://namratha-gn.github.io/Spotify-clone-project/
