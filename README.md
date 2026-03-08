@@ -34,5 +34,5 @@ https://namratha-gn.github.io/Spotify-clone-project/
 
 ## 🙋‍♀️ Author
 Namratha GN  
-LinkedIn 
-GitHub 
+LinkedIn:www.linkedin.com/in/namratha-gn-bb89aa2bb 
+GitHub: 
